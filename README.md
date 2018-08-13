@@ -10,6 +10,10 @@ We validate our ARNet on the following tasks:
  - [Permuted Sequential MNIST](http://git.code.oa.com/laviechen/ARNet/tree/master/permuted_sequential_mnist)
 
 
+## License
+ARNet is released under the MIT License (refer to the LICENSE file for details).
+
+
 ## Citation
 
     @InProceedings{Chen_2018_CVPR,
@@ -19,9 +23,6 @@ We validate our ARNet on the following tasks:
       month = {June},
       year = {2018}
     }
-
-## License
-ARNet is released under the MIT License (refer to the LICENSE file for details).
 
 
 ## Authorship
