@@ -3,7 +3,9 @@
 ## Introduction
 This [paper](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_Regularizing_RNNs_for_CVPR_2018_paper.html) was accepted by CVPR 2018 as poster. The proposed method is very effective in RNN-based models.  In our framework, RNNs are regularized by reconstructing the previous hidden state with the current one. Therefore, the relationships between neighbouring hidden states in RNNs can be further exploited by our ARNet.
 
+[ARNet framework!](https://ws1.sinaimg.cn/large/0069RVTdgy1fu8dkzjjcmj31kw0krdqu.jpg)
 
+## Experiments
 We validate our ARNet on the following tasks:
  - [Image Captioning](http://git.code.oa.com/laviechen/ARNet/tree/master/image_captioning)
  - [Code Captioning](http://git.code.oa.com/laviechen/ARNet/tree/master/code_captioning)
@@ -11,7 +13,7 @@ We validate our ARNet on the following tasks:
 
 
 ## License
-ARNet is released under the MIT License (refer to the LICENSE file for details).
+The code and the models in this repo are released under the CC-BY-NC 4.0 LICENSE (refer to the LICENSE file for details).
 
 
 ## Citation
